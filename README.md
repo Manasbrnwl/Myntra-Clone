@@ -5,5 +5,7 @@ This project is a full-stack e-commerce application inspired by Myntra, featurin
 Tech Stack:
 
 Frontend: React.js
+
 Backend: Spring Boot (Java)
+
 (Optional) Database: MySQL, PostgreSQL, or similar
